@@ -10,4 +10,5 @@ Course contents are
 5. Azure devops with azure repo 
 6. Ansible
 7. X-ray
+8. new tool
 
