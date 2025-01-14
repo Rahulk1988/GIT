@@ -7,5 +7,7 @@ Course contents are
 2. Git and Github
 3. Azure devops
 4. Terraform
-5. Ansible
-6. X-ray
+5. Azure devops with azure repo 
+6. Ansible
+7. X-ray
+
