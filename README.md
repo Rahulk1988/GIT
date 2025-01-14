@@ -7,3 +7,4 @@ Course contents are
 2. Git and Github
 3. Azure devops
 4. Terraform
+5. Azure devops with azure repo 
